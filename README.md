@@ -25,7 +25,7 @@ Defina em seu terminal o diretório "*ProjetoRepositorio*" e digite "*yarn andro
 
 ### `Como usar?`
 
-Digite o nome de usuário do GitHub e, então, clique em "*ver perfil*".
+Digite o nome de usuário do GitHub e, então, clique no icone de '*+*', apos adicionado, clique em "*ver perfil*".
 
 Ex.: f3rnandorj
 
